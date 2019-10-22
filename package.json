@@ -1,0 +1,24 @@
+{
+  "name": "debian-js-lesson-1",
+  "version": "0.0.1",
+  "description": "Debian packaging lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guimard/debian-js-lesson-1.git"
+  },
+  "keywords": [
+    "Debian",
+    "JS",
+    "packaging"
+  ],
+  "author": "Xavier Guimard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guimard/debian-js-lesson-1/issues"
+  },
+  "homepage": "https://github.com/guimard/debian-js-lesson-1#readme"
+}
