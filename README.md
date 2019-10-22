@@ -19,6 +19,6 @@ Steps:
    * when you're happy, prepare push: `dch -r --force-save-on-release`
    * save debian/changelog and commit result
 
-In real life, you've then to push result using `salsa push` then ask for a Debian Developer review.
+In real life, you've then to push result using `salsa --group js-team push` then ask for a Debian Developer review.
 
 **PLEASE NEVER PUSH YOUR RESULT**
