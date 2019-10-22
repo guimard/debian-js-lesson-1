@@ -1,6 +1,6 @@
 {
   "name": "debian-js-lesson-1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Debian packaging lesson 1",
   "main": "index.js",
   "scripts": {
