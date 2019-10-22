@@ -1,6 +1,6 @@
 # Debian packaging lesson 1
 
-This step will show how to update a node package in Debian.
+This step will show how to update a simple node package in Debian.
 
 Before trying this, take a look to [our documentation](https://wiki.debian.org/Javascript/Tutorial)
 
@@ -20,3 +20,5 @@ Steps:
    * save debian/changelog and commit result
 
 In real life, you've then to push result using `salsa push` then ask for a Debian Developer review.
+
+**PLEASE NEVER PUSH YOUR RESULT**
